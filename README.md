@@ -1,6 +1,6 @@
 # Importer to backlog wiki
 
-esa.io等からエクスポートされたmarkdownのファイルをbacklogのwikiにインポートするスクリプトです。
+他のドキュメント管理ツールからmarkdown形式でエクスポートされたファイルをbacklogのwikiにインポートするスクリプトです。
 
 ## Getting Started
 
